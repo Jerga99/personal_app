@@ -5,7 +5,7 @@ const getLocalSearchIndex = () => {
   return searchIndex;
 }
 
-const shortify = (text: string, maxLength = 70) => {
+const shortify = (text: string, maxLength =65) => {
   if (text.length <= maxLength) {
     return text;
   }
