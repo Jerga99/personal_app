@@ -6,6 +6,12 @@
     "category": "blogs"
   },
   {
+    "slug": "top-5-resources-to-learn-react-js-next-js",
+    "title": "Top 5 Resources To Learn React JS /Next.JS",
+    "description": "Next JS is an amazing framework for building SSR apps. There is a lot of resources to learn it. Find out how they differ and discover your favorite one.",
+    "category": "blogs"
+  },
+  {
     "slug": "nft-marketplace-in-react-js-next-typescript-full-guide",
     "title": "NFT Marketplace in React, Typescript & Solidity - Full Guide",
     "description": "Learn how to use React / Next JS, Solidity, and Pinata(IPFS) to create NFT marketplace on Ethereum. All In Typescript.",
@@ -33,6 +39,12 @@
     "slug": "software-engineer-siemens",
     "title": "Software Engineer Siemens",
     "description": "Working as C++ and C# software engineer",
+    "category": "portfolios"
+  },
+  {
+    "slug": "web-developer-berlin",
+    "title": "Web Developer Berlin",
+    "description": "Working as Javascript Frontend Developer. Experience with Angular and Ionic frameworks.",
     "category": "portfolios"
   }
 ]
